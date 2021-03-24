@@ -1,4 +1,4 @@
-Hi there!  i'm  ΑdίL. 
+Hi there!  i'm  ΑdίL
 
 
 I’m currently working on Front-end Design
