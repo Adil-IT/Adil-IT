@@ -1,8 +1,8 @@
 Hi there!  i'm  ΑdίL
 
 
-I’m currently working on Front-end Development.
+I’m currently Working on Front-end Development.
 
 
-And  learning React/+Other Front-end Frameworks.
+And  Learning React/+Other Front-end Frameworks.
 
