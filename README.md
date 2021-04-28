@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [My-Portfolio][website] 👋
+### Hi There!  i'm  ΑdίL  [Portfolio][website] 👋
 
 
 
