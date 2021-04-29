@@ -26,7 +26,7 @@ And  Learning React/+Other Front-end Frameworks.
 
 
 
-[website]:https://adil-it.github.io/mycv.github.io/?fbclid=IwAR3hUiQ85ncp5ero3hZ2N-5i_IXlw8VxEtHW0zOv_USMmxJ91zocKDwtAY0
+[website]:https://adil-it.github.io/TestY.github.io/
 
 [facebook]: https://www.facebook.com/IT09.adil/
 
