@@ -34,4 +34,4 @@ And  Learning React/+Other Front-end Frameworks.
 
 [linkedin]:https://www.linkedin.com/in/shahriar-hussain-adil-17b586189/
 
-[stack]:https://stackoverflow.com/users/13741636/adil?tab=profile
+[stack]:https:"#"
