@@ -1,4 +1,4 @@
-### *Hi There!  i'm* [ΑdίL][website]  
+### *Hi There!  i'm* [ΑdίL](https://adil-it.github.io/TestY.github.io/"Hey") 
 
 
 >**i’m Currently Working on Front-end Development**
@@ -27,7 +27,6 @@
 
 
 
-[website]:https://adil-it.github.io/TestY.github.io/
 
 [facebook]: https://www.facebook.com/IT09.adil/
 
