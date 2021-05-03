@@ -1,4 +1,4 @@
-### *Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" "width="30px"> i'm* [ΑdίL](https://adil-it.github.io/TestY.github.io "Shahriar Hussain ") 
+### *Hi There! i'm* [ΑdίL](https://adil-it.github.io/TestY.github.io "Shahriar Hussain ") 
 
 
 
