@@ -1,6 +1,4 @@
-### *Hi There! i'm* [ΑdίL](https://adil-it.github.io/TestY.github.io "Shahriar Hussain ") 
-
-![hi](https://github.com/Adil-IT/Adil-IT/blob/main/wave.gif)
+### *Hi There! i'm* [ΑdίL](https://adil-it.github.io/TestY.github.io "Shahriar Hussain ") ![hi](https://github.com/Adil-IT/Adil-IT/blob/main/wave.gif)
 
 >**i’m Currently Working on Front-end Development**
 
