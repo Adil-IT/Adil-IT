@@ -2,7 +2,7 @@
 
 #### ![hi](https://github.com/Adil-IT/Adil-IT/blob/main/wave.gif)
 
->**i’m Currently Working on Front-end Development**
+>**i’m Currently Working on Front-End Development**
 
 >**And  Learning React/+Other Front-end Frameworks.**
 
