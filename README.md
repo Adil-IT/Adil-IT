@@ -1,4 +1,4 @@
-### *Hi There! i'm* [ΑdίL](https://adil-it.github.io/mycv.github.io/ "Shahriar Hussain ") .... 🔍
+### *Hi There! i'm* [ΑdίL](https:# "Shahriar Hussain ") .... 🔍
 
 
 >**i’m Currently Working on Front-End Development**
