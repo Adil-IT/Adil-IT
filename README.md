@@ -1,4 +1,4 @@
-### *Hi There! i'm* [ΑdίL](https://adil-it.github.io/projectList.github.io/?fbclid=IwAR2oG7aP3NRdtRlUziTwxx0TuT489_gB9LNASS8k9pqtUew6sR-h1zHoV5starget="_blank">    "Shahriar Hussain ") .... 🔍
+### *Hi There! i'm* [ΑdίL](https://adil-it.github.io/projectList.github.io/?fbclid=IwAR2oG7aP3NRdtRlUziTwxx0TuT489_gB9LNASS8k9pqtUew6sR-h1zHoV5s target="_blank"    "Shahriar Hussain ") .... 🔍
 
 
 >**i’m Currently Working on Front-End Development**
