@@ -29,7 +29,7 @@
 
 
 
-[facebook]: https://www.facebook.com/IT09.adil/ target="_blank"
+[facebook]: https://www.facebook.com/IT09.adil/
 
 [instagram]: https://www.instagram.com/adil.syl/
 
