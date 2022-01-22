@@ -3,7 +3,7 @@
 
 >**i’m Currently Working on Front-End Development**
 
->**And Learning React and Other Front-End UI-Frameworsk**
+>**And Learning React and Other Front-End UI-Framework**
 
 
 
