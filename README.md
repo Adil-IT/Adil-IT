@@ -19,9 +19,5 @@
 
 
 [facebook]: https://www.facebook.com/IT09.adil/
-
-[instagram]: https://www.instagram.com/adil.syl/
-
 [linkedin]:https://www.linkedin.com/in/shahriar-hussain-adil-17b586189/
-
 [stack]:https:"#"
