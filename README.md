@@ -1,16 +1,5 @@
 ### *Hi There! i'm* [ΑdίL](https://adil-it.github.io/projectList.github.io/?fbclid=IwAR2oG7aP3NRdtRlUziTwxx0TuT489_gB9LNASS8k9pqtUew6sR-h1zHoV5s "Shahriar Hussain ") .. 🔍
-
-
->**i’m Currently Working on Front-End Developments**
-
->**And Learning React and Front-End UI-Frameworks**
-
-
-
-
-
 ---
-
 #### 💬 *Connect with me*
  
 [<img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
